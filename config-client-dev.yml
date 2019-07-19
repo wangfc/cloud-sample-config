@@ -1,6 +1,6 @@
 config:
     client:
-        test: word
+        test: word33
 
 spring:
   cloud:
