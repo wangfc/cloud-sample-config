@@ -13,3 +13,9 @@ spring:
     port: 5672
     username: guest
     password: guest
+  zipkin:
+    base-url: http://localhost:9998/
+  sleuth:
+    sampler:
+      probability: 1.0
+   
